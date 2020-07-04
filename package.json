@@ -1,0 +1,16 @@
+{
+  "name": "ooglopbot",
+  "version": "1.0.0",
+  "description": "Discord bot that will help doing things.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OoglopCid",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^12.2.0",
+    "winston": "^3.3.3"
+  }
+}
