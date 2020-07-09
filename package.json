@@ -2,8 +2,9 @@
   "name": "ooglopbot",
   "version": "1.0.0",
   "description": "Discord bot that will help doing things.",
-  "main": "bot.js",
+  "main": "src/bot.js",
   "scripts": {
+    "start": "node ./src/bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "OoglopCid",
